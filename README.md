@@ -9,14 +9,15 @@
 <br />
 
 <img src="https://img.shields.io/badge/he%2Fhim-blueviolet?style=flat-square" />
-<img src="https://img.shields.io/badge/🇧🇷-Brazil-009c3b?style=flat-square" />
+<img src="https://flagcdn.com/24x18/br.png" width="24" height="18" style="vertical-align:middle;border-radius:2px" />
+<img src="https://img.shields.io/badge/Brazil-009c3b?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=ridiculousparrot&style=flat-square&color=61DAFB&label=Profile+Views" />
 
 </div>
 
 <br />
 
-## 🎓 About Me
+## <img src="https://api.iconify.design/mdi:school.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> About Me
 
 I'm a Computer Science student and undergraduate researcher (**IC**) from Brazil.
 My research on **compilers and formal languages** scored **93/100**, and I'm
@@ -40,11 +41,11 @@ class Parrot:
 
 <br />
 
-## 🔬 Research
+## <img src="https://api.iconify.design/mdi:flask-outline.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> Research
 
 <table>
   <tr>
-    <td>📄</td>
+    <td><img src="https://api.iconify.design/mdi:file-document-outline.svg?color=%2361dafb" width="28" height="28" /></td>
     <td>
       <b>Undergraduate Research (IC) — Compilers & Formal Languages, Fatec</b><br/>
       <sub>Final Grade</sub> · <img src="https://img.shields.io/badge/93%2F100-brightgreen?style=flat-square" />
@@ -54,7 +55,7 @@ class Parrot:
 
 <br />
 
-## 🧠 Interests
+## <img src="https://api.iconify.design/mdi:brain.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> Interests
 
 <p>
 <img src="https://img.shields.io/badge/Theory_of_Computation-1a1a2e?style=for-the-badge&logoColor=white" />
@@ -71,7 +72,7 @@ class Parrot:
 
 <br />
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/mdi:tools.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> Tech Stack
 
 **Languages**
 
@@ -102,7 +103,7 @@ class Parrot:
 
 <br />
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/mdi:chart-bar.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-olive-psi-34.vercel.app/api?username=ridiculousparrot&show_icons=true&theme=tokyonight&count_private=false&hide_border=true" />
@@ -119,7 +120,7 @@ class Parrot:
 
 <br />
 
-## 📫 Let's Connect
+## <img src="https://api.iconify.design/mdi:send-outline.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> Let's Connect
 
 <p>
 <a href="mailto:lenharespedro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -128,5 +129,5 @@ class Parrot:
 ---
 
 <div align="center">
-<sub>"Language, logic, and a little bit of chaos." 🎶</sub>
+<sub>"Language, logic, and a little bit of chaos." <img src="https://api.iconify.design/mdi:music-note.svg?color=%2361dafb" width="16" height="16" style="vertical-align:middle" /></sub>
 </div>
