@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+RidiculousParrot+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Compilers+%26+Formal+Languages+Researcher;Theory+of+Computation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+RidiculousParrot;Computer+Science+Student;Compilers+%26+Formal+Languages+Researcher;Theory+of+Computation+Enthusiast" alt="Typing SVG" />
 
 <br />
 
@@ -104,7 +104,18 @@ class Parrot:
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridiculousparrot&show_icons=true&theme=tokyonight&count_private=false&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridiculousparrot&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=ridiculousparrot&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridiculousparrot&theme=tokyo-night&hide_border=true" /> </p> <br />
+<p align="center">
+  <img height="165" src="https://github-readme-stats-olive-psi-34.vercel.app/api?username=ridiculousparrot&show_icons=true&theme=tokyonight&count_private=false&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-olive-psi-34.vercel.app/api/top-langs/?username=ridiculousparrot&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ridiculousparrot&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridiculousparrot&theme=tokyo-night&hide_border=true" />
+</p>
 
 <br />
 
