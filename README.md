@@ -111,8 +111,9 @@ class Parrot:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridiculousparrot&theme=tokyo-night&hide_border=true" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=ridiculousparrot&theme=tokyonight&hide_border=true" />
+</p> esse nao funciona, o que pode ser?
+
 
 <br />
 
