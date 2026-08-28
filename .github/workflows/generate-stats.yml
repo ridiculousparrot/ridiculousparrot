@@ -23,15 +23,20 @@ jobs:
 
       - name: Download stats SVG
         run: |
-          curl -L \
+          curl -L --fail \
             "https://github-readme-stats-olive-psi-34.vercel.app/api?username=ridiculousparrot&show_icons=true&theme=tokyonight&hide_border=true" \
             -o profile/stats.svg
 
       - name: Download top languages SVG
         run: |
-          curl -L \
+          curl -L --fail \
             "https://github-readme-stats-olive-psi-34.vercel.app/api/top-langs/?username=ridiculousparrot&layout=compact&theme=tokyonight&hide_border=true" \
             -o profile/top-langs.svg
+
+      - name: Validate SVG files
+        run: |
+          grep -q "<svg" profile/stats.svg
+          grep -q "<svg" profile/top-langs.svg
 
       - name: Commit and push if changed
         run: |
