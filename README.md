@@ -72,7 +72,6 @@ creativity overlap.
 
 <p align="center"> <img height="165" src="./profile/stats.svg" /> <img height="165" src="./profile/top-langs.svg" /> </p>
 
-<sub>Stats are static SVGs auto-generated daily by a GitHub Action (see setup below) — this avoids the live API going down or getting rate-limited.</sub>
 ---
 
 ### 📫 Let's Connect
