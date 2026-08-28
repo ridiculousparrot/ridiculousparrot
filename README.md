@@ -95,7 +95,7 @@ class Parrot:
 ## <img src="https://api.iconify.design/mdi:send-outline.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> Let's Connect
 
 <p> <a href="mailto:lenharespedro@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/> </a> </p>
----
+
 
 <div align="center">
 <sub>"Language, logic, and a little bit of chaos." <img src="https://api.iconify.design/mdi:music-note.svg?color=%2361dafb" width="16" height="16" style="vertical-align:middle" /></sub>
