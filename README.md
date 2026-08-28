@@ -104,9 +104,7 @@ class Parrot:
 
 ## <img src="https://api.iconify.design/mdi:send-outline.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> Let's Connect
 
-<p>
-<a href="mailto:lenharespedro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<p> <a href="mailto:lenharespedro@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Email"/> </a> </p>
 
 ---
 
