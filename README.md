@@ -70,13 +70,9 @@ creativity overlap.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=ridiculousparrot&show_icons=true&theme=tokyonight&count_private=false" />
+<p align="center"> <img height="165" src="./profile/stats.svg" /> <img height="165" src="./profile/top-langs.svg" /> </p>
 
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridiculousparrot&layout=compact&theme=tokyonight" />
-</p>
+<sub>Stats are static SVGs auto-generated daily by a GitHub Action (see setup below) — this avoids the live API going down or getting rate-limited.</sub>
 ---
 
 ### 📫 Let's Connect
