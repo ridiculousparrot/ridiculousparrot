@@ -20,9 +20,9 @@
 ## <img src="https://api.iconify.design/mdi:school.svg?color=%2361dafb" width="26" height="26" style="vertical-align:middle" /> About Me
 
 I'm a Computer Science student and undergraduate researcher (**IC**) from Brazil.
-My research on **compilers and formal languages** scored **93/100**, and I'm
-deeply interested in **theory of computation** — automata, computability,
-formal grammars, and the mathematical foundations behind how programs run.
+I'm deeply interested in **compilers, formal languages, and theory of computation** —
+from automata and computability to formal grammars and the mathematical foundations
+behind how programs work.
 
 Outside of code, I spend a lot of time thinking about **physics**,
 **philosophy**, **music**, and **art** — I like the space where logic and
